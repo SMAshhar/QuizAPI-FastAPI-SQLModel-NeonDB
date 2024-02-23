@@ -1,0 +1,7 @@
+sqlmodel
+sqlalchemy
+fastapi
+python-dotenv
+openai
+psycopg2-binary
+setuptools
